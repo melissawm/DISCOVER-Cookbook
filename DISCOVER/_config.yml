@@ -34,3 +34,4 @@ sphinx:
     tags_create_tags: True
     tags_extension: ["md"]  # using MyST, not default: ["rst"]
     suppress_warnings: ["etoc.toctree"]
+
